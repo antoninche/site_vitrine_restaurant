@@ -1,4 +1,4 @@
-# 🍽️ Site vitrine restaurant — thème switcher (Bistro / Gastro / Street)
+# 🍽️ Site vitrine restaurant — thème (Bistro / Gastro / Street)
 
 Je suis parti d’un besoin simple : avoir un **site vitrine statique**,  **réutilisable pour différents clients** sans réécrire tout le design.
 
