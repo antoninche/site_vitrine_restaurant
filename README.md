@@ -6,22 +6,20 @@ Ce repo est donc une base “portfolio” : tu peux changer le **style** (bistro
 
 ---
 
-## ✨ Ce que le site fait (vraiment utile pour un resto)
-
+## ✨ Ce que le site fait 
 ### 🎨 3 styles de site en 1 clic
 Un sélecteur **Style** dans le header applique un thème :
 - **Bistro chic** : chaud, cosy, doré
 - **Gastro** : premium sobre, minimal
 - **Street** : plus punchy, contrasté
 
-Le choix est **persisté** (il reste actif en changeant de page).
+Le choix reste actif en changeant de page.
 
 ### 📱 Conversion mobile (pro)
 - **Barre sticky mobile** en bas de l’écran :
   - **Réserver**
   - **Appeler**
   - **Itinéraire**
-- UTM sur les CTA (démo) pour mesurer les clics/intentions côté analytics.
 
 ### 🕒 Horaires intelligents
 Affiche automatiquement :
