@@ -74,3 +74,10 @@ site_vitrine_restaurant/
 └── legal/
     ├── mentions-legales.html
     └── politique-confidentialite.html
+```
+---
+
+## 👤 Auteur
+
+Projet réalisé dans un objectif d’apprentissage avancé et de portfolio e-commerce front-end.
+
